@@ -12,50 +12,73 @@
 
 ## 🍇数据结构与算法
 
-
+- [数据结构](https://docs.data-structures.knowledge-precipitation.site/)
+- 算法
+- 刷题
 
 ## 🍈操作系统
 
 - 计算机操作系统
-- Linux
+- [Linux](https://docs.linux.knowledge-precipitation.site/)
 
 ## 🍉计算机网络
 
+- HTTP/HTTPS
+- TCP/IP
+
 ## 🍊数据库
 
-- MySQL
-- Redis
+- 数据库基础
+
+- [MySQL](https://docs.mysql.knowledge-precipitation.site/)
+- [Redis](https://docs.redis.knowledge-precipitation.site/)
+- MongoDB
 
 ## 🍋Go语言
 
+- [Golang-guide](https://docs.golangguide.knowledge-precipitation.site/)
+- [go-frameworks](https://docs.golangguide.knowledge-precipitation.site/chang-yong-kuang-jia/gorm-mysql)
+- [go-micro-tutorials](https://github.com/golang-collection/go-micro-tutorials)
+- [go-tensorflow_serving](https://github.com/golang-collection/Go-tensorflow_serving)
+- [go语言工具合集](https://github.com/golang-collection)
+- 项目实战
+  - [分布式爬虫](https://github.com/golang-collection/go-crawler-distributed)
+  - [构建RestfulAPI](https://github.com/golang-collection/Go-RestfulAPI)
+  - [即时通讯](https://github.com/A-chat/A-chat-backend)
+  - [睡前故事](https://github.com/BestBedTimeStory/BedtimeStory-backend)
+  - [文献管理](https://github.com/easy2managePaper/easy2managePaper-v1)
+  - [超级工具合集](https://github.com/superToolsCollection)
+
 ## 🍌架构设计
 
-- 架构演进
-- 云原生
-- 分布式架构
-- 微服务架构
-- Serverless
-- 关键系统
+- [架构演进](https://docs.distributed.knowledge-precipitation.site/jia-gou-she-ji/untitled)
+- [云原生](https://docs.distributed.knowledge-precipitation.site/yun-yuan-sheng)
+- [分布式架构](https://docs.distributed.knowledge-precipitation.site/jia-gou-she-ji/gao-ke-yong-she-ji)
+- [微服务架构](https://docs.distributed.knowledge-precipitation.site/wei-fu-wu/wei-fu-wu-jia-gou)
+- [Serverless](https://docs.distributed.knowledge-precipitation.site/serverless-1/serverless)
+- [关键系统](https://docs.distributed.knowledge-precipitation.site/guan-jian-xi-tong/zhu-ce-zhong-xin)
 
 ## 🍍工具
 
 - Git
-- Docker
-- k8s
+- [Docker](https://docs.docker.knowledge-precipitation.site/)
+- [k8s](https://docs.docker.knowledge-precipitation.site/k8s/kubernetes)
 - make
-- ELK
+- [ELK](https://docs.elk.knowledge-precipitation.site/)
 
 ## 🍎人工智能
 
-- 数据相关
-- 时间序列
-- 机器学习
-- 深度学习
-- 模型部署
+- [数据相关](https://docs.feature-engineering.knowledge-precipitation.site/)
+- [时间序列](https://docs.tsa.knowledge-precipitation.site/)
+- [机器学习](https://docs.ml.knowledge-precipitation.site/)
+- [深度学习](https://docs.dl.knowledge-precipitation.site/)
+- [模型部署](https://docs.model-deployment.knowledge-precipitation.site/)
 
 ## 🍏其他
 
-- 设计模式
+- [设计模式](https://docs.design-patterns.knowledge-precipitation.site/)
+- 编码规范
+- 项目结构
 
 
 
@@ -71,6 +94,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 感谢以下开源内容：
 
+- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
+- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
 
-
-特别感谢[cyc2018/CS-Notes](https://github.com/CyC2018/CS-Notes)，是这个项目使我萌生了内容整理的想法。
+特别感谢[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)，是这个项目使我萌生了内容整理的想法。
