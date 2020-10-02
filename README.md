@@ -13,8 +13,8 @@
 ## 🍇数据结构与算法
 
 - [数据结构](https://docs.data-structures.knowledge-precipitation.site/)
-- 算法
-- 刷题
+- [算法](https://docs.data-structures.knowledge-precipitation.site/pai-xu/ji-ben-gai-nian)
+- [刷题](https://docs.data-structures.knowledge-precipitation.site/shua-ti)
 
 ## 🍈操作系统
 
