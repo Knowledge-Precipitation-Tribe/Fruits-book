@@ -8,13 +8,15 @@
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">     <img border="0" src="https://img.shields.io/badge/LICENSE-CC%20BY--NC--SA%204.0-green" /> </a>
 <a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/wechat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
-
-
 ## 🍇数据结构与算法
 
 - [数据结构](https://docs.data-structures.knowledge-precipitation.site/)
 - [算法](https://docs.data-structures.knowledge-precipitation.site/pai-xu/ji-ben-gai-nian)
 - [刷题](https://docs.data-structures.knowledge-precipitation.site/shua-ti)
+
+## 🍐计算机系统原理
+
+- 计算机基础
 
 ## 🍈操作系统
 
@@ -23,6 +25,7 @@
 
 ## 🍉计算机网络
 
+- 网络基础
 - HTTP/HTTPS
 - TCP/IP
 
@@ -65,6 +68,8 @@
 - [k8s](https://docs.docker.knowledge-precipitation.site/k8s/kubernetes)
 - make
 - [ELK](https://docs.elk.knowledge-precipitation.site/)
+- DevOps
+- CI/CD
 
 ## 🍎人工智能
 
@@ -77,8 +82,12 @@
 ## 🍏其他
 
 - [设计模式](https://docs.design-patterns.knowledge-precipitation.site/)
+- 重构
+- 编程范式
 - 编码规范
+- Code Review
 - 项目结构
+- 自我评分
 
 
 
