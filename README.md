@@ -14,7 +14,7 @@
 - [算法](https://docs.data-structures.knowledge-precipitation.site/pai-xu/ji-ben-gai-nian)
 - [刷题](https://docs.data-structures.knowledge-precipitation.site/shua-ti)
 
-## 🍐计算机系统原理
+## 🍎计算机系统原理
 
 - 计算机基础
 
@@ -52,6 +52,15 @@
   - [文献管理](https://github.com/easy2managePaper/easy2managePaper-v1)
   - [超级工具合集](https://github.com/superToolsCollection)
 
+## 🍑面向对象编程语言
+
+- Java
+
+## 🍒底层编程语言
+
+- C语言
+- 汇编语言
+
 ## 🍌架构设计
 
 - [架构演进](https://docs.distributed.knowledge-precipitation.site/jia-gou-she-ji/untitled)
@@ -71,7 +80,7 @@
 - DevOps
 - CI/CD
 
-## 🍎人工智能
+## 🍓人工智能
 
 - [数据相关](https://docs.feature-engineering.knowledge-precipitation.site/)
 - [时间序列](https://docs.tsa.knowledge-precipitation.site/)
@@ -79,7 +88,7 @@
 - [深度学习](https://docs.dl.knowledge-precipitation.site/)
 - [模型部署](https://docs.model-deployment.knowledge-precipitation.site/)
 
-## 🍏其他
+## 🥑其他
 
 - [设计模式](https://docs.design-patterns.knowledge-precipitation.site/)
 - 重构
@@ -98,6 +107,8 @@
 # Contribute
 
 Contributions are always welcome! Make an individual pull request for each suggestion.
+
+个人力量总归渺小，欢迎共创🆒。
 
 # 鸣谢
 
