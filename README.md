@@ -14,7 +14,7 @@
 
 - [数据结构](https://docs.data-structures.knowledge-precipitation.site/)
 - [算法](https://docs.data-structures.knowledge-precipitation.site/pai-xu/ji-ben-gai-nian)
-- [刷题](https://docs.data-structures.knowledge-precipitation.site/shua-ti)
+- [刷题](https://github.com/golang-collection/LetCode)
 
 ## 🍎计算机系统原理
 
