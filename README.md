@@ -53,6 +53,7 @@
   - [睡前故事](https://github.com/BestBedTimeStory/BedtimeStory-backend)
   - [文献管理](https://github.com/easy2managePaper/easy2managePaper-v1)
   - [超级工具合集](https://github.com/superToolsCollection)
+  - [细节题目考试平台](https://github.com/golang-collection/Go-details)
 
 ## 🍑面向对象编程语言
 
