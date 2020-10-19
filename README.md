@@ -18,22 +18,22 @@
 
 ## 🍎计算机系统原理
 
-- 计算机基础
+- [计算机基础](./computer-based/README.md)
 
 ## 🍈操作系统
 
-- 计算机操作系统
+- [计算机操作系统](./operating-system/README.md)
 - [Linux](https://docs.linux.knowledge-precipitation.site/)
 
 ## 🍉计算机网络
 
-- 网络基础
+- [网络基础](./computer-network/README.md)
 - HTTP/HTTPS
 - TCP/IP
 
 ## 🍊数据库
 
-- 数据库基础
+- [数据库基础](./database-basic/README.md)
 
 - [MySQL](https://docs.mysql.knowledge-precipitation.site/)
 - [Redis](https://docs.redis.knowledge-precipitation.site/)
