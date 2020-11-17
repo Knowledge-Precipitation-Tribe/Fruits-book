@@ -119,5 +119,6 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 
 特别感谢[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)，是这个项目使我萌生了内容整理的想法。
