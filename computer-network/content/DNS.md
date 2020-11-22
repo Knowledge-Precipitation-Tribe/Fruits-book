@@ -1,1 +1,2 @@
 DNS
+DNS是基于什么协议，有没有基于HTTP的DNS协议
