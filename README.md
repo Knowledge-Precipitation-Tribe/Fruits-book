@@ -90,6 +90,7 @@
 - [时间序列](https://docs.tsa.knowledge-precipitation.site/)
 - [机器学习](https://docs.ml.knowledge-precipitation.site/)
 - [深度学习](https://docs.dl.knowledge-precipitation.site/)
+- [元学习](https://github.com/Knowledge-Precipitation-Tribe/Fruits-book/tree/master/%E5%85%83%E5%AD%A6%E4%B9%A0)
 - [模型部署](https://docs.model-deployment.knowledge-precipitation.site/)
 
 ## 🥑其他
@@ -101,6 +102,7 @@
 - Code Review
 - 项目结构
 - 自我评分
+- [科研经验]()
 
 
 
