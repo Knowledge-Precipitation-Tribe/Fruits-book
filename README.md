@@ -102,7 +102,7 @@
 - Code Review
 - 项目结构
 - 自我评分
-- [科研经验]()
+- [科研经验](https://github.com/Knowledge-Precipitation-Tribe/Fruits-book/tree/master/%E7%A7%91%E7%A0%94%E7%BB%8F%E9%AA%8C)
 
 
 
