@@ -1,2 +1,0 @@
-linux
-在linux上执行ls操作系统做了什么
