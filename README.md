@@ -12,8 +12,8 @@
 
 ## 🍇数据结构与算法
 
-- [数据结构](https://docs.data-structures.knowledge-precipitation.site/)
-- [算法](https://docs.data-structures.knowledge-precipitation.site/pai-xu/ji-ben-gai-nian)
+- [数据结构](https://github.com/Knowledge-Precipitation-Tribe/Data-structure-implementation)
+- [算法](https://github.com/Knowledge-Precipitation-Tribe/Data-structure-implementation)
 - [刷题](https://github.com/golang-collection/LetCode)
 
 ## 🍎计算机系统原理
@@ -23,7 +23,7 @@
 ## 🍈操作系统
 
 - [计算机操作系统](./operating-system/README.md)
-- [Linux](https://docs.linux.knowledge-precipitation.site/)
+- [Linux](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-Linux)
 
 ## 🍉计算机网络
 
@@ -35,26 +35,20 @@
 
 - [数据库基础](./database-basic/README.md)
 
-- [MySQL](https://docs.mysql.knowledge-precipitation.site/)
-- [Redis](https://docs.redis.knowledge-precipitation.site/)
+- [MySQL](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-MySQL)
+- [Redis](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-Redis)
 - MongoDB
 
 ## 🍋Go语言
 
 - [Golang-guide](https://docs.golangguide.knowledge-precipitation.site/)
-- [go-frameworks](https://docs.golangguide.knowledge-precipitation.site/chang-yong-kuang-jia/gorm-mysql)
-- [go-micro-tutorials](https://github.com/golang-collection/go-micro-tutorials)
 - [go-tensorflow_serving](https://github.com/golang-collection/Go-tensorflow_serving)
 - [go语言工具合集](https://github.com/golang-collection)
 - [后端开发]()
 - 项目实战
   - [分布式爬虫](https://github.com/golang-collection/go-crawler-distributed)
   - [构建RestfulAPI](https://github.com/golang-collection/Go-RestfulAPI)
-  - [即时通讯](https://github.com/A-chat/A-chat-backend)
-  - [睡前故事](https://github.com/BestBedTimeStory/BedtimeStory-backend)
-  - [文献管理](https://github.com/easy2managePaper/easy2managePaper-v1)
   - [超级工具合集](https://github.com/superToolsCollection)
-  - [细节题目考试平台](https://github.com/golang-collection/Go-details)
 
 ## 🍑面向对象编程语言
 
@@ -67,20 +61,20 @@
 
 ## 🍌架构设计
 
-- [架构演进](https://docs.distributed.knowledge-precipitation.site/jia-gou-she-ji/untitled)
-- [云原生](https://docs.distributed.knowledge-precipitation.site/yun-yuan-sheng)
-- [分布式架构](https://docs.distributed.knowledge-precipitation.site/jia-gou-she-ji/gao-ke-yong-she-ji)
-- [微服务架构](https://docs.distributed.knowledge-precipitation.site/wei-fu-wu/wei-fu-wu-jia-gou)
-- [Serverless](https://docs.distributed.knowledge-precipitation.site/serverless-1/serverless)
-- [关键系统](https://docs.distributed.knowledge-precipitation.site/guan-jian-xi-tong/zhu-ce-zhong-xin)
+- [架构演进](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
+- [云原生](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
+- [分布式架构](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
+- [微服务架构](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
+- [Serverless](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
+- [关键系统](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
 
 ## 🍍工具
 
 - [Git](https://github.com/SuperSupeng/github-collaboration-tutorials)
-- [Docker](https://docs.docker.knowledge-precipitation.site/)
-- [k8s](https://docs.docker.knowledge-precipitation.site/k8s/kubernetes)
+- [Docker](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-Docker)
+- [k8s](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-Docker)
 - make
-- [ELK](https://docs.elk.knowledge-precipitation.site/)
+- ELK
 - DevOps
 - CI/CD
 
