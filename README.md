@@ -22,7 +22,7 @@
 
 ## 🍈操作系统
 
-- [计算机操作系统](./operating-system/README.md)
+- [计算机操作系统](https://github.com/Knowledge-Precipitation-Tribe/operating-system)
 - [Linux](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-Linux)
 
 ## 🍉计算机网络
@@ -41,10 +41,11 @@
 
 ## 🍋Go语言
 
-- [Golang-guide](https://docs.golangguide.knowledge-precipitation.site/)
+- [Go学习指南 Golang-guide](https://docs.golangguide.knowledge-precipitation.site/)
 - [go-tensorflow_serving](https://github.com/golang-collection/Go-tensorflow_serving)
-- [go语言工具合集](https://github.com/golang-collection)
-- [后端开发]()
+- [各种库使用](https://github.com/golang-collection)
+- [web相关]()
+  - [动手实现web框架]()
 - 项目实战
   - [分布式爬虫](https://github.com/golang-collection/go-crawler-distributed)
   - [构建RestfulAPI](https://github.com/golang-collection/Go-RestfulAPI)
@@ -64,6 +65,7 @@
 - [架构演进](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
 - [云原生](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
 - [分布式架构](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
+  - [mit 6.824](https://github.com/SuperSupeng/MIT6.824)
 - [微服务架构](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
 - [Serverless](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
 - [关键系统](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
@@ -74,7 +76,7 @@
 - [Docker](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-Docker)
 - [k8s](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-Docker)
 - make
-- ELK
+- [ELK](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-ELK)
 - DevOps
 - CI/CD
 
@@ -86,6 +88,7 @@
 - [深度学习](https://docs.dl.knowledge-precipitation.site/)
 - [元学习](https://github.com/Knowledge-Precipitation-Tribe/Fruits-book/tree/master/%E5%85%83%E5%AD%A6%E4%B9%A0)
 - [模型部署](https://docs.model-deployment.knowledge-precipitation.site/)
+- [时空预测](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers)
 
 ## 🥑其他
 
