@@ -165,3 +165,7 @@ Linux环境下开发经常会碰到很多错误(设置errno)，其中EAGAIN是�
 # 来源
 - [人云思云(epoll源码分析)](https://segmentfault.com/a/1190000003063859)
 - [ff_d](https://www.cnblogs.com/l2017/p/10830391.html)
+- [go I/O多路复用](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-netpoller/)
+- [Go夜读 网络](https://www.bilibili.com/video/av74598921)
+- [Go netpoll](https://taohuawu.club/static_res/html/webslides/gnet/gnet.html#slide=1)
+- [IO多路复用](https://www.bilibili.com/video/BV1qJ411w7du/?spm_id_from=autoNext), [笔记](https://www.processon.com/view/link/5f36856b5653bb06f2ce529f)
