@@ -1,2 +1,2 @@
-string
+在redis中string类型能存储的最大容量是512M
 redis string类型的底层实现
