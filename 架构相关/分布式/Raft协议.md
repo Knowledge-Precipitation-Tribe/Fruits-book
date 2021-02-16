@@ -10,3 +10,6 @@ Raft是强一致的集群日志同步算法。
 - log index：日志行在日志序列的下标
 
 # Raft异常场景
+
+# 参考文献
+- [Raft笔记](https://docs.qq.com/doc/DY0VxSkVGWHFYSlZJ)
