@@ -22,7 +22,7 @@
 
 ## 🍈操作系统
 
-- [计算机操作系统](https://github.com/Knowledge-Precipitation-Tribe/operating-system)
+- [计算机操作系统](./operating-system)
 - [Linux](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-Linux)
 
 ## 🍉计算机网络
