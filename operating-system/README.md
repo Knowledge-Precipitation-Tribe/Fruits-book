@@ -8,6 +8,7 @@
 	- [线程控制](content/线程控制.md)
 	- [cpu上下文切换](content/cpu上下文切换.md)
 	- [死锁](content/死锁.md)
+		- [银行家算法](content/银行家算法.md)
 	- [同步，异步，阻塞，非阻塞](content/同步，异步，阻塞，非阻塞.md)
 		- [同步与异步](content/同步与异步.md)
 		- [阻塞与非阻塞](content/阻塞与非阻塞.md)
