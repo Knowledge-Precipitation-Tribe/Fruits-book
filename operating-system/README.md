@@ -12,7 +12,7 @@
 	- [同步，异步，阻塞，非阻塞](content/同步，异步，阻塞，非阻塞.md)
 		- [同步与异步](content/同步与异步.md)
 		- [阻塞与非阻塞](content/阻塞与非阻塞.md)
-	- [多cpu，多核与多线程](content/多cpu，多核与多线程.md)
+	- [多cpu](content/多cpu.md)
 - [内存管理](content/内存管理.md)
 	- [程序加载过程](content/程序加载过程.md)
 	- [逻辑地址与物理地址](content/逻辑地址与物理地址.md)
