@@ -11,5 +11,15 @@ CPU缓存是位于CPU与内存之间的临时数据交换器，它的容量比�
 计算过程。程序以及数据被加载到主内存；指令和数据被加载到CPU的高速缓；CPU执行指令，把结果写到高速缓存；高速缓存中的数据写回主内存。
 
 # CPU缓存结构
+**单核CPU缓存结构如下**：
+![](https://img-blog.csdn.net/20160103043551288?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
+在单核CPU结构中，L1分成了指令（L1P）和数据（L1D）两部分，而L2则是指令和数据共存。
 
+**多核CPU缓存结构如下**：
+![](https://img-blog.csdn.net/20160103044115119?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+
+多核CPU的结构与单核相似，但是多了所有CPU共享的L3三级缓存。在多核CPU的结构中，L1和L2是CPU私有的，L3则是所有CPU核心共享的。
+
+# 缓存一致性MESI
+在多核CPU中，内存中的数据会在多个核心中存在数据副本，某一个核心发生修改操作，就产生了数据不一致的问题。而一致性协议正是用于保证多个CPU cache之间缓存共享数据的一致。至于MESI，则是缓存一致性协议中的一个，到底怎么实现，还是得看具体的处理器指令集。
