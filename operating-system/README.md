@@ -26,7 +26,7 @@
 	- [工作集与页面分配策略](content/工作集与页面分配策略.md)
 - 文件管理
 	- [零拷贝](content/零拷贝.md)
-	- [写时复制机制](content/写时复制机制.md)
+	- [写时复制机制](%E5%86%99%E6%97%B6%E5%A4%8D%E5%88%B6%E6%9C%BA%E5%88%B6COW.md)
 	- [mmap](content/mmap.md)
 - 设备管理
 	- [IO](content/IO.md)
