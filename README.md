@@ -112,6 +112,9 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 个人力量总归渺小，欢迎共创🆒。
 
+# Stargazers over time
+[![Stargazers over time](https://starcharts.herokuapp.com/Knowledge-Precipitation-Tribe/Fruits-book.svg)](https://starcharts.herokuapp.com/Knowledge-Precipitation-Tribe/Fruits-book)
+
 # 鸣谢
 
 感谢以下开源内容：
