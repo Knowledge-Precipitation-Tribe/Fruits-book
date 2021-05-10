@@ -34,10 +34,10 @@
 ## 🍊数据库
 
 - [数据库基础](./database-basic/README.md)
-
 - [MySQL](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-MySQL)
 - [Redis](https://github.com/Knowledge-Precipitation-Tribe/Dive-into-Redis)
 - MongoDB
+- [TiDB](https://github.com/Knowledge-Precipitation-Tribe/TIDB-tutorial)
 
 ## 🍋Go语言
 
@@ -58,6 +58,7 @@
 ## 🍒底层编程语言
 
 - C语言
+- [Rust](https://github.com/Knowledge-Precipitation-Tribe/Rust-tutorial)
 - 汇编语言
 
 ## 🍌架构设计
