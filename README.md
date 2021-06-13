@@ -63,6 +63,8 @@
 
 ## 🍌架构设计
 
+- [分布式系统](https://github.com/SuperSupeng/Distributed-system)
+  - [Mit 6.824](https://github.com/SuperSupeng/MIT6.824)
 - [架构演进](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
 - [云原生](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
 - [分布式架构](https://github.com/Knowledge-Precipitation-Tribe/Distributed-and-Microservices)
